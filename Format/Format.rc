@@ -72,7 +72,7 @@ IDR_FORMAT_RSRC_HEADER  HEADER                  "resource.h"
 // TYPELIB
 //
 
-IDR_FORMAT_TLB          TYPELIB                 "Format.tlb"
+IDR_FORMAT_TLB          TYPELIB                 ".\\Format\\Format.tlb"
 
 /////////////////////////////////////////////////////////////////////////////
 //
