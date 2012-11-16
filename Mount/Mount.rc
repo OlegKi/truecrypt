@@ -34,7 +34,7 @@ IDR_MOUNT_RSRC_HEADER   HEADER                  "resource.h"
 // TYPELIB
 //
 
-IDR_MOUNT_TLB           TYPELIB                 "Mount.tlb"
+IDR_MOUNT_TLB           TYPELIB                 ".\\Mount\\Mount.tlb"
 
 /////////////////////////////////////////////////////////////////////////////
 //
